@@ -1,0 +1,103 @@
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"error","message":"Validation Failed","service":"express-api"}
+{"level":"error","message":"Validation Failed","service":"express-api"}
+{"level":"error","message":"Validation Failed","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit pieChartStatisticsByMonth","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":1,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit saleStatsByMonth","service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":179.7,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":179.7,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":179.7,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":2,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":798,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":798,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"info","message":"hit all statistics","service":"express-api"}
+{"level":"info","message":3,"service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":798,"total_sold_items":1,"total_unsold_items":2},"service":"express-api"}
+{"level":"error","message":"Validation Failed","service":"express-api"}
+{"level":"info","message":{"total_items":3,"total_sales":529,"total_sold_items":2,"total_unsold_items":1},"service":"express-api"}
