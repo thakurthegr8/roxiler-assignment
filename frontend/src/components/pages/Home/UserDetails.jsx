@@ -23,14 +23,15 @@ const UserDetails = () => {
 
   return (
     <Layout.Col>
-      <Layout.Card className="p-4">
-        <Typography.Title>User Details</Typography.Title>
-
-        {data ? (
-          <Description obj={data} />
-        ) : (
-          <Typography>No user selected</Typography>
-        )}
+      <Layout.Card className="p-4 bg-white">
+        <Layout.Col className="gap-4">
+          <Typography.Heading>User Details</Typography.Heading>
+          {data ? (
+            <Description obj={data} />
+          ) : (
+            <Typography>No user selected</Typography>
+          )}
+        </Layout.Col>
       </Layout.Card>
     </Layout.Col>
   );

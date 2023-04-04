@@ -16,7 +16,7 @@ const Card = (props) => {
   return (
     <div
       {...props}
-      className={`block rounded-md border shadow-md ${props.className}`}
+      className={`block rounded-md border shadow-md overflow-hidden ${props.className}`}
     />
   );
 };

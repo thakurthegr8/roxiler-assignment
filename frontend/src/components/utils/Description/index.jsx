@@ -7,9 +7,14 @@ const Description = ({ obj }) => {
     <Layout.Col className="gap-2">
       {Object.keys(obj).map((item, index) =>
         typeof obj[item] === "object" ? (
-          <details className="ml-2 border bg-gray-100 mix-blend-multiply	 p-2 rounded-md capitalize" key={index}>
-            <summary color="blue">{item}</summary>
-            <Description obj={obj[item]} key={index} />
+          <details
+            className="ml-2 transition-all overflow-hidden shadow-sm border bg-gray-100 mix-blend-multiply rounded-md capitalize overflow-hidden"
+            key={index}
+          >
+            <summary className="border-b p-2 cursor-pointer select-none active:bg-gray-200 transition font-bold">{item}</summary>
+            <Layout.Col className="p-2">
+              <Description obj={obj[item]} key={index} />
+            </Layout.Col>
           </details>
         ) : (
           <Layout.Row key={index} className="items-center gap-2">

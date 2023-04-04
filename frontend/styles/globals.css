@@ -73,22 +73,22 @@ button {
 
 /* typography */
 h1 {
-  @apply text-3xl;
+  @apply text-3xl tracking-tight;
 }
 h2 {
-  @apply text-2xl;
+  @apply text-2xl tracking-tight;
 }
 
 h3 {
-  @apply text-xl;
+  @apply text-xl tracking-tight;
 }
 
 p {
-  @apply text-base;
+  @apply text-base tracking-tight;
 }
 
 span {
-  @apply text-sm;
+  @apply text-sm tracking-tight;
 }
 
 input {

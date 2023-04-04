@@ -45,8 +45,8 @@ const cols = [
               className="btn-outlined-primary btn-sm gap-2"
               onClick={() => ctx.setCurrentId(obj[_target])}
             >
-              <Typography.Caption>View Userid</Typography.Caption>
-              <Typography.Caption className="p-1 rounded-full bg-primary text-white px-2">{text}</Typography.Caption>
+              <Typography.Caption className="text-xs">View User</Typography.Caption>
+              <Typography.Caption className="p-1 rounded-full bg-primary text-white px-2 text-xs">{text}</Typography.Caption>
             </Button>
           )}
         </UserDetailsContext.Consumer>
@@ -97,7 +97,7 @@ const DataTable = () => {
   return (
     <Layout.Col className="gap-2">
       <Search />
-      <Layout.Card>
+      <Layout.Card className="bg-white">
         <Table cols={cols} dataset={currentData} />
       </Layout.Card>
     </Layout.Col>
